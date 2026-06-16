@@ -1,6 +1,6 @@
 ### 📁 Directories
-[<img alt='Academics' src="/assets/academics.png" width="150">](https://github.com/allenbphilip-academics/)
-[<img alt='Resources' src="/assets/resources.png" width="150">](https://github.com/allenbphilip-resources/)
+[<img alt='Academics' src="/assets/academics.png" width="100">](https://github.com/allenbphilip-academics/)
+[<img alt='Resources' src="/assets/resources.png" width="100">](https://github.com/allenbphilip-resources/)
 
 ###  [📌](https://github.com/allenbphilip/) Allen Ben Philipose
 
